@@ -16,7 +16,8 @@ body {
   font-family: "Roboto", sans-serif;
   color: var(--main-color);
   max-width: 1600px;
-  margin: auto;
+  margin: 0 auto;
+  
 }
 
 h1,
