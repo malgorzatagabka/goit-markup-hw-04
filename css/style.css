@@ -286,20 +286,19 @@ img {
   width: 44px;
   height: 44px;
   background-color: var(--third-color);
+  fill: var(--social-icon);
   border-radius: 50%;
   align-items: center;
   justify-content: center;
+
 }
 .social-list-link:hover,
-.social-list-link:focus,
-.social-icon:hover,
-.social-icon:focus {
+.social-list-link:focus
+ {
   fill: var(--third-color);
   background-color: var(--secondary-color);
 }
-.social-icon {
-  fill: var(--social-icon);
-}
+
 /* END WORKERS */
 
 /* OUR CLIENTS */
